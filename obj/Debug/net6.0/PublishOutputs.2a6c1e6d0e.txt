@@ -1,0 +1,7 @@
+C:\Users\tibbe\Desktop\devops\WebApplication1\bin\Debug\net6.0\publish\WebApplication1.exe
+C:\Users\tibbe\Desktop\devops\WebApplication1\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\tibbe\Desktop\devops\WebApplication1\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\tibbe\Desktop\devops\WebApplication1\bin\Debug\net6.0\publish\WebApplication1.dll
+C:\Users\tibbe\Desktop\devops\WebApplication1\bin\Debug\net6.0\publish\WebApplication1.deps.json
+C:\Users\tibbe\Desktop\devops\WebApplication1\bin\Debug\net6.0\publish\WebApplication1.runtimeconfig.json
+C:\Users\tibbe\Desktop\devops\WebApplication1\bin\Debug\net6.0\publish\WebApplication1.pdb
